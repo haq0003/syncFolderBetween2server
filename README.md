@@ -28,4 +28,7 @@ set /etc/logrotate.d
 }
 ```
 
+Use php cli or run with option -d memory_limit=-1 -d max_execution_time=0 ...
+
+
 
